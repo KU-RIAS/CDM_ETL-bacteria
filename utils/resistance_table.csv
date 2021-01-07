@@ -1,0 +1,168 @@
+idx,resistant_bacteria,organism,anti,mdr
+1,carbapenem resistant acinetobacter,acinetobacter,"imipenem,meropenem,doripenem",none
+2,multidrug resistant acinetobacter,acinetobacter,"ticarcillin/ca,piperacillin/tazobac,piperacillin",anti-pseudomonal penicillin 
+2,multidrug resistant acinetobacter,acinetobacter,ampicillin/sulbactam,ampicillin/sulbactam
+2,multidrug resistant acinetobacter,acinetobacter,"cefotaxime,cefepime,ceftazidime",cephalosporin
+2,multidrug resistant acinetobacter,acinetobacter,aztreonam,aztreonam
+2,multidrug resistant acinetobacter,acinetobacter,"imipenem,meropenem,doripenem",carbapenem 
+2,multidrug resistant acinetobacter,acinetobacter,ciprofloxacin,fluoroquinolone
+2,multidrug resistant acinetobacter,acinetobacter,gentamicin,aminoglycoside
+2,multidrug resistant acinetobacter,acinetobacter,minocycline,tetracycline
+2,multidrug resistant acinetobacter,acinetobacter,tigecycline,tigecycline
+2,multidrug resistant acinetobacter,acinetobacter,trimethoprim/sulfa,sulfa
+2,multidrug resistant acinetobacter,acinetobacter,colistin,colistin
+3,carbapenem resistant klebsiella,klebsiella,"ertapenem,meropenem,imipenem,doripenem",none
+4,methicillin resistant staphylococcus,staphylococcus,oxacillin,none
+6,multidrug resistant streptococcus,streptococcus,"amoxicillin/ca,penicillin",penicillin
+6,multidrug resistant streptococcus,streptococcus,"cefepime,ceftriaxone,cefuroxime",cephalosporin
+6,multidrug resistant streptococcus,streptococcus,meropenem,carbapenem
+6,multidrug resistant streptococcus,streptococcus,"clarithromycin,azithromycin",macrolide
+6,multidrug resistant streptococcus,streptococcus,chloramphenicol,chloramphenicol
+6,multidrug resistant streptococcus,streptococcus,clindamycin,clindamycin
+6,multidrug resistant streptococcus,streptococcus,erythromycin,erythromycin
+6,multidrug resistant streptococcus,streptococcus,linezolid,linezolid
+6,multidrug resistant streptococcus,streptococcus,"moxifloxacin,levofloxacin",fluoroquinolone
+6,multidrug resistant streptococcus,streptococcus,rifampin,rifampin
+6,multidrug resistant streptococcus,streptococcus,"tetracycline,minocycline",tetracycline
+6,multidrug resistant streptococcus,streptococcus,vancomycin,glycopeptide
+6,multidrug resistant streptococcus,streptococcus,trimethoprim/sulfa,sulfa
+7,penicillin resistant streptococcus,streptococcus,penicillin,none
+9,fluoroquinolone-resistant neisseria,neisseria,ciprofloxacin,none
+11,vancomycin resistant staphylococcus,staphylococcus,vancomycin,none
+12,glycopeptide resistant staphylococcus,staphylococcus,vancomycin,none
+13,dapsone resistant mycobacterium,mycobacterium,dapsone,none
+14,tetracycline resistant neisseria,neisseria,"tetracycline,doxycycline",none
+15,spectinomycin-resistant neisseria,neisseria,spectinomycin,none
+16,cephalosporin resistant neisseria,neisseria,"ceftriaxone,cefixime",none
+17,vancomycin resistant enterococcus,enterococcus,vancomycin,none
+19,multidrug resistant achromobacter,achromobacter,"ticarcillin/ca,piperacillin/tazobac,piperacillin",anti-pseudomonal penicillin 
+19,multidrug resistant achromobacter,achromobacter,"cefotaxime,cefepime,ceftazidime",cephalosporin
+19,multidrug resistant achromobacter,achromobacter,aztreonam,aztreonam
+19,multidrug resistant achromobacter,achromobacter,"imipenem,meropenem,doripenem",carbapenem 
+19,multidrug resistant achromobacter,achromobacter,ciprofloxacin,fluoroquinolone
+19,multidrug resistant achromobacter,achromobacter,gentamicin,aminoglycoside
+19,multidrug resistant achromobacter,achromobacter,minocycline,tetracycline
+19,multidrug resistant achromobacter,achromobacter,tigecycline,tigecycline
+19,multidrug resistant achromobacter,achromobacter,trimethoprim/sulfa,sulfa
+19,multidrug resistant achromobacter,achromobacter,colistin,colistin
+20,carbapenem resistant pseudomonas,pseudomonas,"imipenem,meropenem,doripenem",none
+20,carbapenem resistant bacteria,bacteria,"ertapenem,imipenem,meropenem,doripenem",none
+23,multidrug resistant morganella,morganella,"ampicillin/sulbactam,amoxicillin/ca",amino penicillin beta lactam inhibitor 
+23,multidrug resistant morganella,morganella,piperacillin/tazobac,anti-pseudomonal penicillin beta lactam inhibitor
+23,multidrug resistant morganella,morganella,"cefotaxime,cefepime,ceftazidime",cephalosporin
+23,multidrug resistant morganella,morganella,aztreonam,aztreonam
+23,multidrug resistant morganella,morganella,"ciprofloxacin,levofloxacin",fluoroquinolone
+23,multidrug resistant morganella,morganella,"gentamicin,tobramycin,amikacin",aminoglycoside
+23,multidrug resistant morganella,morganella,"ertapenem,meropenem,imipenem,doripenem",carbapenem
+23,multidrug resistant morganella,morganella,trimethoprim/sulfa,sulfa
+23,multidrug resistant morganella,morganella,fosfomycin,fosfomycin
+23,multidrug resistant morganella,morganella,chloramphenicol,chloramphenicol
+25,multidrug resistant pseudomonas,pseudomonas,piperacillin/tazobac,anti-pseudomonal penicillin beta lactam inhibitor 
+25,multidrug resistant pseudomonas,pseudomonas,"cefepime,ceftazidime",cephalosporin
+25,multidrug resistant pseudomonas,pseudomonas,aztreonam,aztreonam
+25,multidrug resistant pseudomonas,pseudomonas,"ciprofloxacin,levofloxacin",fluoroquinolone 
+25,multidrug resistant pseudomonas,pseudomonas,"gentamicin,tobramycin,amikacin",aminoglycoside
+25,multidrug resistant pseudomonas,pseudomonas,"meropenem,imipenem,doripenem",carbapenem
+25,multidrug resistant pseudomonas,pseudomonas,colistin,colistin
+28,fluoroquinolone resistant pseudomonas,pseudomonas,"ciprofloxacin,levofloxacin",none
+28,fluoroquinolone resistant acinetobacter,acinetobacter,"ciprofloxacin,levofloxacin",none
+28,fluoroquinolone resistant bacteria,bacteria,"moxifloxacin,ciprofloxacin,levofloxacin",none
+34,multidrug resistant escherichia,escherichia,ampicillin,penicillin
+34,multidrug resistant escherichia,escherichia,"ampicillin/sulbactam, amoxicillin/ca",amino penicillin beta lactam inhibitor 
+34,multidrug resistant escherichia,escherichia,piperacillin/tazobac,anti-pseudomonal penicillin beta lactam inhibitor 
+34,multidrug resistant escherichia,escherichia,"cefotaxime,cefepime,ceftazidime,cefuroxime",cephalosporin
+34,multidrug resistant escherichia,escherichia,aztreonam,aztreonam
+34,multidrug resistant escherichia,escherichia,"ciprofloxacin,levofloxacin",fluoroquinolone
+34,multidrug resistant escherichia,escherichia,"gentamicin,tobramycin,amikacin",aminoglycoside
+34,multidrug resistant escherichia,escherichia,"ertapenem,meropenem,imipenem,doripenem",carbapenem
+34,multidrug resistant escherichia,escherichia,trimethoprim/sulfa,sulfa
+34,multidrug resistant escherichia,escherichia,tigecycline,tigecycline
+34,multidrug resistant escherichia,escherichia,"tetracycline,minocycline",tetracycline 
+34,multidrug resistant escherichia,escherichia,fosfomycin,fosfomycin
+34,multidrug resistant escherichia,escherichia,chloramphenicol,chloramphenicol
+34,multidrug resistant escherichia,escherichia,colistin,colistin
+35,multidrug resistant klebsiella,klebsiella,"ampicillin/sulbactam,amoxicillin/ca",amino penicillin beta lactam inhibitor 
+35,multidrug resistant klebsiella,klebsiella,piperacillin/tazobac,anti-pseudomonal penicillin beta lactam inhibitor 
+35,multidrug resistant klebsiella,klebsiella,"cefotaxime,cefepime,ceftazidime,cefuroxime",cephalosporin
+35,multidrug resistant klebsiella,klebsiella,aztreonam,aztreonam
+35,multidrug resistant klebsiella,klebsiella,"ciprofloxacin,levofloxacin",fluoroquinolone
+35,multidrug resistant klebsiella,klebsiella,"gentamicin,tobramycin,amikacin",aminoglycoside
+35,multidrug resistant klebsiella,klebsiella,"ertapenem,meropenem,imipenem,doripenem",carbapenem
+35,multidrug resistant klebsiella,klebsiella,trimethoprim/sulfa,sulfa
+35,multidrug resistant klebsiella,klebsiella,tigecycline,tigecycline
+35,multidrug resistant klebsiella,klebsiella,"tetracycline,minocycline",tetracycline 
+35,multidrug resistant klebsiella,klebsiella,fosfomycin,fosfomycin
+35,multidrug resistant klebsiella,klebsiella,chloramphenicol,chloramphenicol
+35,multidrug resistant klebsiella,klebsiella,colistin,colistin
+36,carbapenem resistant enterobacter,enterobacter,"ertapenem,imipenem,meropenem,doripenem",none
+37,multidrug resistant proteus,proteus,"ampicillin/sulbactam, amoxicillin/ca",amino penicillin beta lactam inhibitor 
+37,multidrug resistant proteus,proteus,piperacillin/tazobac,anti-pseudomonal penicillin beta lactam inhibitor
+37,multidrug resistant proteus,proteus,"cefotaxime,cefepime,ceftazidime",cephalosporin
+37,multidrug resistant proteus,proteus,aztreonam,aztreonam
+37,multidrug resistant proteus,proteus,"ciprofloxacin,levofloxacin",fluoroquinolone
+37,multidrug resistant proteus,proteus,"gentamicin,tobramycin,amikacin",aminoglycoside
+37,multidrug resistant proteus,proteus,"ertapenem,meropenem,imipenem,doripenem",carbapenem
+37,multidrug resistant proteus,proteus,trimethoprim/sulfa,sulfa
+37,multidrug resistant proteus,proteus,fosfomycin,fosfomycin
+37,multidrug resistant proteus,proteus,chloramphenicol,chloramphenicol
+39,multidrug resistant enterobacter,enterobacter,"ampicillin/sulbactam,amoxicillin/ca",amino penicillin beta lactam inhibitor
+39,multidrug resistant enterobacter,enterobacter,piperacillin/tazobac,anti-pseudomonal penicillin beta lactam inhibitor 
+39,multidrug resistant enterobacter,enterobacter,"cefotaxime,cefepime,ceftazidime,cefuroxime",cephalosporin
+39,multidrug resistant enterobacter,enterobacter,aztreonam,aztreonam
+39,multidrug resistant enterobacter,enterobacter,"ciprofloxacin,levofloxacin",fluoroquinolone
+39,multidrug resistant enterobacter,enterobacter,"gentamicin,tobramycin,amikacin",aminoglycoside 
+39,multidrug resistant enterobacter,enterobacter,"ertapenem,meropenem,imipenem,doripenem",carbapenem
+39,multidrug resistant enterobacter,enterobacter,trimethoprim/sulfa,sulfa
+39,multidrug resistant enterobacter,enterobacter,tigecycline,tigecycline
+39,multidrug resistant enterobacter,enterobacter,"tetracycline,minocycline",tetracycline
+39,multidrug resistant enterobacter,enterobacter,fosfomycin,fosfomycin
+39,multidrug resistant enterobacter,enterobacter,chloramphenicol,chloramphenicol
+39,multidrug resistant enterobacter,enterobacter,colistin,colistin
+43,pan drug resistant bacteria,bacteria,anti,none
+44,carbapenem resistant escherichia,escherichia,"ertapenem,meropenem,imipenem,doripenem",none
+47,multidrug resistant serratia,serratia,"ampicillin/sulbactam,amoxicillin/ca",amino penicillin beta lactam inhibitor 
+47,multidrug resistant serratia,serratia,piperacillin/tazobac,anti-pseudomonal penicillin beta lactam inhibitor 
+47,multidrug resistant serratia,serratia,"cefotaxime,cefepime,ceftazidime",cephalosporin
+47,multidrug resistant serratia,serratia,aztreonam,aztreonam
+47,multidrug resistant serratia,serratia,"ciprofloxacin,levofloxacin",fluoroquinolone 
+47,multidrug resistant serratia,serratia,"gentamicin,tobramycin,amikacin",aminoglycoside
+47,multidrug resistant serratia,serratia,"ertapenem,meropenem,imipenem,doripenem",carbapenem
+47,multidrug resistant serratia,serratia,trimethoprim/sulfa,sulfa
+47,multidrug resistant serratia,serratia,fosfomycin,fosfomycin
+47,multidrug resistant serratia,serratia,chloramphenicol,chloramphenicol
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,gentamicin,aminoglycoside
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,rifampin,rifampin
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,"cipro, moxifloxacin",fluoroquinolone
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,trimethoprim-sulfamethoxazole,sulfa
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,fusidic acid,fusidic acid
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,"vancomycin, teicoplanintigecycline",glycopeptide
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,tigecycline,tigecycline
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,clindamycin,clindamycin
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,erythromycin,erythromycin
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,linezolid,linezolid
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,chloramphenicol,chloramphenicol
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,fosfomycin,fosfomycin
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,quinupristin-dalfopristin,quinupristin-dalfopristin
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,daptomycin,daptomycin
+49,multidrug resistant methicillin resistant staphylococcus,staphylococcus,"tetracycline,doxycycline,minocycline",tetracycline 
+51,multidrug resistant citrobacter,citrobacter,"ampicillin/sulbactam,amoxicillin/ca",amino penicillin beta lactam inhibitor 
+51,multidrug resistant citrobacter,citrobacter,piperacillin/tazobac,anti-pseudomonal penicillin beta lactam inhibitor 
+51,multidrug resistant citrobacter,citrobacter,"cefotaxime,cefepime,ceftazidime",cephalosporin
+51,multidrug resistant citrobacter,citrobacter,aztreonam,aztreonam
+51,multidrug resistant citrobacter,citrobacter,"ciprofloxacin,levofloxacin",fluoroquinolone 
+51,multidrug resistant citrobacter,citrobacter,"gentamicin,tobramycin,amikacin",aminoglycoside
+51,multidrug resistant citrobacter,citrobacter,"ertapenem,meropenem,imipenem,doripenem",carbapenem
+51,multidrug resistant citrobacter,citrobacter,trimethoprim/sulfa,sulfa
+51,multidrug resistant citrobacter,citrobacter,tigecycline,tigecycline
+51,multidrug resistant citrobacter,citrobacter,"tetracycline,minocycline",tetracycline 
+51,multidrug resistant citrobacter,citrobacter,fosfomycin,fosfomycin
+51,multidrug resistant citrobacter,citrobacter,chloramphenicol,chloramphenicol
+51,multidrug resistant citrobacter,citrobacter,colistin,colistin
+52,carbapenem resistant proteus,proteus,"ertapenem,meropenem,imipenem,doripenem",none
+55,fluoroquinolone resistant campylobacter,campylobacter,"levofloxacin,ciprofloxacin",none
+57,clarithromycin resistant bacteria,bacteria,clarithromycin,none
+58,ampicillin resistant haemophilus,haemophilus,ampicillin,none
+59,clarithromycin resistant helicobacter,helicobacter,clarithromycin,none
+60,fluoroquinolone resistant salmonella,salmonella,"ciprofloxacin,levofloxacin",none
+61,fluoroquinolone resistant salmonella,shigella,"ciprofloxacin,levofloxacin",none
+62,ampicillin resistant bacteria,bacteria,ampicillin,none
